@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif !important;
+    padding: 0;
+    margin: 0;
+}
+
+.corpo {
+    background-image: url("../assets/fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    width: 1920px;
+    height: 863px;
+    overflow: hidden;
+}
+
+
+.bet-logo {
+    width: 150px;
+}
+
+.navbar {
+    background-color: #14805E !important;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.idioma {
+    color: #04291d !important;
+}
+
+.left-itens {
+    position: relative;
+    left: -10% !important;
+    display: flex;
+    gap: 60px;
+}
+
+.dropdown {
+    color: #fff !important;
+    list-style: none !important;
+    position: relative !important;
+    top: 10px;
+}
+
+h5 {
+    color: #178562 !important;
+}
+
+h1 {
+    color: #fff !important;
+    font-size: 90px;
+}
+
+p {
+    color: #fff !important;
+}
+
+
+.letras-corpo {
+    position: relative;
+    left: 5%;
+    top: 30%;
+}
+
+.apostar {
+    height: 65px !important;
+    width: 180px !important;
+    font-size: 20px;
+    color: rgb(51, 48, 48);
+    margin-bottom: 20px;
+}
